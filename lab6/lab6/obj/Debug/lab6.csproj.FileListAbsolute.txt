@@ -1,0 +1,10 @@
+D:\Project\crypto\lab6\lab6\bin\Debug\Lab6Miroshnichenko.exe.config
+D:\Project\crypto\lab6\lab6\bin\Debug\Lab6Miroshnichenko.exe
+D:\Project\crypto\lab6\lab6\bin\Debug\Lab6Miroshnichenko.pdb
+D:\Project\crypto\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+D:\Project\crypto\lab6\lab6\obj\Debug\Lab6.Form1.resources
+D:\Project\crypto\lab6\lab6\obj\Debug\Lab6Miroshnichenko.Properties.Resources.resources
+D:\Project\crypto\lab6\lab6\obj\Debug\lab6.csproj.GenerateResource.cache
+D:\Project\crypto\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+D:\Project\crypto\lab6\lab6\obj\Debug\Lab6Miroshnichenko.exe
+D:\Project\crypto\lab6\lab6\obj\Debug\Lab6Miroshnichenko.pdb

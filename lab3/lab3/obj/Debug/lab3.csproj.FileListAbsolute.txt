@@ -1,0 +1,10 @@
+D:\Project\crypto\lab3\lab3\obj\Debug\Lab3.Form1.resources
+D:\Project\crypto\lab3\lab3\obj\Debug\lab3.Properties.Resources.resources
+D:\Project\crypto\lab3\lab3\obj\Debug\lab3.csproj.GenerateResource.cache
+D:\Project\crypto\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+D:\Project\crypto\lab3\lab3\bin\Debug\lab3.exe.config
+D:\Project\crypto\lab3\lab3\bin\Debug\lab3.exe
+D:\Project\crypto\lab3\lab3\bin\Debug\lab3.pdb
+D:\Project\crypto\lab3\lab3\obj\Debug\lab3.exe
+D:\Project\crypto\lab3\lab3\obj\Debug\lab3.pdb
+D:\Project\crypto\lab3\lab3\obj\Debug\lab3.csproj.AssemblyReference.cache
